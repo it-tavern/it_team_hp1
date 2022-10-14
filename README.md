@@ -17,6 +17,7 @@ git branch #現在のブランチを確認
 git branch feature/name_作業 #ブランチの命名規則をつけるかは決めてません ブランチ作成
 ```
 feature/name_作業でコードを変更します。  
+```
 git add . #.(dot)は変更全ファイルです
 git commit -m "作業内容" #コメント
 git push
