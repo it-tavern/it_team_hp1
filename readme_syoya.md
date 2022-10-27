@@ -1,4 +1,0 @@
-aaaaaaaaaaaasdfgh
-aaabbbbccccc
-kkkkkkkkkkkkkkkkkkkkkkkkkk
-aiueo
