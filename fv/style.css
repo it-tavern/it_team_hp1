@@ -1,0 +1,42 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+img {
+    width: 100%;
+}
+.bl_fv {
+    width: 100vw;
+    height: 768px;
+    margin: 0 auto;
+    overflow: hidden;
+    position: relative;
+}
+.bl_fv_content {
+    position: absolute;
+    top: 40%;
+    left: 5%;
+    z-index: 2;
+}
+.bl_fv_title {
+    font-size: 80px;
+    font-weight: 600;
+}
+.bl_fv_title_ja {
+    display: block;
+    font-size: 32px;
+}
+.bl_fv_image {
+    position: absolute;
+    bottom: 0;
+    right: 5%;
+    z-index: 1;
+    max-width: 562px;
+}
+.bl_fv_bg {
+    position: absolute;
+    top: 28%;
+    right: -8%;
+    z-index: 0;
+}
